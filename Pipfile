@@ -10,6 +10,10 @@ seaborn = "*"
 matplotlib = "*"
 ipykernel = "*"
 jupyter = "*"
+plotly-express = "*"
+scikit-learn = "*"
+xgboost = "*"
+folium = "*"
 
 [dev-packages]
 
